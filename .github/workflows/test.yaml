@@ -14,4 +14,4 @@ jobs:
         run: mvn clean install	
       - name: Run tests
         run: mvn -B test
-        working-directory: ./
+        working-directory: ./backend
