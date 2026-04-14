@@ -11,4 +11,8 @@ class PruebaTest {
 		//fail("Not yet implemented");
 	}
 
+	@Test
+	void test2() {
+		fail("Error");
+	}
 }
