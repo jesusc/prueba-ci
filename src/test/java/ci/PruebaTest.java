@@ -15,4 +15,9 @@ class PruebaTest {
 	void test2() {
 		fail("Error");
 	}
+
+	@Test
+	void test3() {
+		fail("Error 3");
+	}
 }
